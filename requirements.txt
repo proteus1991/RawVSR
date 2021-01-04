@@ -1,0 +1,10 @@
+# This file contains all dependencies that RawVSR code needed.
+
+
+torch>= 1.7.0  
+torchvision
+Pillow
+numpy
+scipy
+pytorch-msssim
+rawpy
