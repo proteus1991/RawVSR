@@ -8,7 +8,7 @@ This repo contains the official codes for our paper:
 
 Accepted in _IEEE Transactions on Image Processing_
 
-[[Paper Download](https://arxiv.org/abs/2008.10710)]
+[[Paper Download](https://arxiv.org/abs/2008.10710)]   [[Video](./assets/RAW_VSR_Video.mp4)]
 ___
 
 
