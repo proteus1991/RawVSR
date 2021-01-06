@@ -50,13 +50,14 @@ Since we are not aware of the existence of publicly available raw video datasets
 a raw video dataset dubbled as **RawVD** is built.
 ![plot](./assets/dataset.png)
 
-- RawVD download (>60G): [BaiduYun](https://pan.baidu.com/s/1ZMOXxiCE1K1RqfdMamWjXg), password: b300.
+- RawVD download (>110G): [BaiduYun](https://pan.baidu.com/s/1ZMOXxiCE1K1RqfdMamWjXg), password: b300.
 
 - Only test dataset: [Google Drive](https://drive.google.com/file/d/1N2rX52lU175-7KsffSAPl-qUuX8iJ_WB/view?usp=sharing).
    
 
 In this dataset, we provide the ground-truth sRGB frames in folder ```1080p_gt_rgb```. Low-resolution (LR) Raw frames are in folder ```1080p_lr_d_raw_2``` and ```1080p_lr_d_raw_4``` in terms of different scale ratios.
-Their corresponding sRGB frames are in folder ```1080p_lr_d_rgb_2``` and ```1080p_lr_d_rgb_4```, where **d** in folder name stands for the degradations including defocus blurring and heteroscedastic Gaussian noise. 
+Their corresponding sRGB frames are in folder ```1080p_lr_d_rgb_2``` and ```1080p_lr_d_rgb_4```, where **d** in folder name stands for the degradations including defocus blurring and heteroscedastic Gaussian noise.
+We also released the original raw videos in Magic Lantern Video (MLV) format. The corresponding software to play it can be found [here](https://github.com/ilia3101/MLV-App).
 Details can be found in Section 3 of our paper.
 
 ## Quick Start
